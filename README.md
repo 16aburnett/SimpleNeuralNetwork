@@ -1,7 +1,7 @@
 # SimpleNeuralNetwork
 Simple Neural Network program that I developed in Javascript
 
-The [website](https://16aburnett.github.io/SimpleNeuralNetwork/) demonstrates the Neural Network being trained and tested on the XOR problem. 
+The [website](https://16aburnett.github.io/SimpleNeuralNetworkJS/) demonstrates the Neural Network being trained and tested on the XOR problem. 
 
 If you access the console on the website, you should be able to create a neural network with 
 ```javascript
